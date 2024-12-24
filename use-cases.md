@@ -14,3 +14,4 @@
 - [社区分享｜MeterSphere变身“啄木鸟”，助力云帐房落地接口自动化测试](https://blog.fit2cloud.com/?p=41a1014c-98f6-4fbd-9ded-d6dc824cded7)
 - [社区分享｜智慧普华的测试工具及平台选型思路](https://blog.fit2cloud.com/?p=1648526e-a3e9-4c71-8ff0-11a5a1e18a90)
 - [社区分享｜商米科技基于MeterSphere的全球化云服务接口测试实践](https://blog.fit2cloud.com/?p=5236)
+- [社区分享｜国信证券基于开源工具的系统质量保障实践](https://blog.fit2cloud.com/?p=ad4bcac1-5579-43de-875d-5a6488f2e2ca)
